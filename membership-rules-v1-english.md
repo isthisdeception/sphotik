@@ -257,21 +257,7 @@ The rules applicable to a member may depend on when the membership or transactio
 
 ---
 
-## 18. Important Summary
-
-In simple terms:
-
-> **Membership fee = access to the library.**
-
-> **Security deposit = refundable protection that determines how much you can borrow.**
-
-> **Delivery fee = paid separately by the member for each delivery and return trip.**
-
-> **No per-book rental fee.**
-
----
-
-## 19. Contact
+## 18. Contact
 
 For questions about membership, borrowing, deposits, returns, or other policies, please contact Sphotik through the official contact channels provided on the website.
 
