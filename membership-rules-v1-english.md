@@ -247,7 +247,30 @@ The member remains responsible for books borrowed through their account.
 
 ---
 
-## 17. Changes to These Rules
+## 17. Early Cancellation and Security Deposit
+
+A member may choose to stop using Sphotik before their membership period ends.
+
+If a member cancels their membership early:
+
+- The membership will no longer be available for use after cancellation.
+- The membership fee will **not be refunded** for the unused period.
+- The security deposit will **remain with Sphotik until the original membership period ends**.
+- After the original membership period has ended, the member may request the return of their eligible security deposit.
+- After the refund request is submitted, Sphotik will process and return the eligible security deposit within **3 to 7 working days**, provided that all borrowed books have been returned and all outstanding charges have been settled.
+
+### Example
+
+A member purchases a 6-month membership with a ৳1,000 security deposit.
+
+After 3 months, the member decides to cancel.
+
+The member's membership access will end, but the ৳1,000 security deposit will remain with Sphotik until the original 6-month membership period is completed.
+
+After the 6-month period ends, the member can request the deposit refund. Sphotik will return the eligible amount within **3 to 7 working days**, provided there are no outstanding books or charges.
+
+
+## 18. Changes to These Rules
 
 Sphotik may revise its membership, borrowing, deposit, delivery, and operational rules as the service develops.
 
@@ -257,7 +280,7 @@ The rules applicable to a member may depend on when the membership or transactio
 
 ---
 
-## 18. Contact
+## 19. Contact
 
 For questions about membership, borrowing, deposits, returns, or other policies, please contact Sphotik through the official contact channels provided on the website.
 
